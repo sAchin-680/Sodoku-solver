@@ -18,7 +18,7 @@ Clear and modular codebase, making it easy to understand and extend.
 
 Usage
 To use the Sudoku solver, follow these steps:
-Clone the repository using git clone https://github.com/your-username/sudoku-solver.git.
+Clone the repository using git clone https://github.com/sAchin-680/sudoku-solver.git.
 Navigate to the project directory: cd sudoku-solver.
 
 Installation
